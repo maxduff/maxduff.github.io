@@ -1,0 +1,21 @@
+body {
+    background-color: rgb(162, 221, 223);
+}
+
+#main {
+    text-align: center;
+}
+
+#title {
+    background-color: rgb(236, 220, 245);
+}
+
+#img-div {
+    background-color: rgb(141, 141, 93);
+}
+
+#image {
+    display: block;
+    max-width: 100%;
+    margin: auto;
+}
